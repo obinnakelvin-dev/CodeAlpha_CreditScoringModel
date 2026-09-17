@@ -125,7 +125,7 @@ CodeAlpha_CreditScoringModel/
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/obinnakelvin-dev/CodeAlpha_CreditScoringModel.git
 ```
 
 ### 2. Open the project folder
